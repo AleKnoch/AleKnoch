@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 💬 Ask me about Supply-chain management buisness logic
+- 🌱 I’m currently learning back-end and front-end development at Proway through Ada's Dev learning path
+- ⚡ Fun fact: I'm a dog mom. Jack and Nino are my pets 😁
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alessandra%20Luize%20Knoch-2c2c2c?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandra-luize-knoch/)](https://www.linkedin.com/in/alessandra-luize-knoch/)
+[![Gmail Badge](https://img.shields.io/badge/-alessandraknoch@gmail.com-2c2c2c?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alessandraknoch@gmail.com)](mailto:alessandraknoch@gmail.com)
+
 <!--
 **AleKnoch/AleKnoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
