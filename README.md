@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about Supply-chain management buisness logic
+- 💬 Ask me about Supply-chain management business logic
 - 🌱 I’m currently learning back-end and front-end development at Proway through Ada's Dev learning path
 - 🌱 I’m currently learning about Quality Assurance at Alura
 - 🔭 I’m looking for a QA/Tester opportunity 
